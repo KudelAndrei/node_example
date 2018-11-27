@@ -1,0 +1,1443 @@
+2018-09-18T13:03:40.841Z info: Server has benn started on PORT 3000 in development 
+2018-09-18T13:03:40.891Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-18T13:05:01.759Z info: Server has benn started on PORT 3000 in development 
+2018-09-18T13:05:01.811Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-18T13:05:16.180Z info: Server has benn started on PORT 3000 in development 
+2018-09-18T13:05:16.232Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-18T13:05:22.352Z info: Server has benn started on PORT 3000 in development 
+2018-09-18T13:05:22.407Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-18T13:07:11.721Z info: Server has benn started on PORT 3000 in development 
+2018-09-18T13:07:11.776Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-18T13:08:52.760Z info: Server has benn started on PORT 3000 in development 
+2018-09-18T13:08:52.809Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-18T13:09:56.768Z info: Server has benn started on PORT 3000 in development 
+2018-09-18T13:09:56.822Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-18T13:10:38.531Z info: Server has benn started on PORT 3000 in development 
+2018-09-18T13:10:38.582Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-18T13:10:54.190Z error: 
+ Error request {"method":"POST","url":"/users","header":{"content-type":"application/json","cache-control":"no-cache","postman-token":"67b62e7d-c59e-459b-9f97-9b3e4de36282","user-agent":"PostmanRuntime/7.3.0","accept":"*/*","host":"localhost:3000","cookie":"connect.sid=s%3AXLUNovT5wpzk6tb3spC7KKjrPEjOgJpz.PgVA90Qd9A03cHv3ofXBAB1V6azIeHaMmWY%2ByGX0E8g","accept-encoding":"gzip, deflate","content-length":"56","connection":"keep-alive"}} 
+ Error: This Email is busy
+    at new HttpError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/http.error.js:4:54)
+    at UserServices._callee$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:20:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:31:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:31:361
+    at <anonymous> 
+
+2018-09-18T13:11:01.364Z info: Get url: /api/users, method: POST
+2018-09-18T13:11:18.300Z info: Server has benn started on PORT 3000 in development 
+2018-09-18T13:11:18.350Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-18T13:11:33.247Z error: 
+ Error request {"method":"POST","url":"/users","header":{"content-type":"application/json","cache-control":"no-cache","postman-token":"5dd86245-6e10-49dc-8dc9-d1a1b6095de2","user-agent":"PostmanRuntime/7.3.0","accept":"*/*","host":"localhost:3000","cookie":"connect.sid=s%3AXLUNovT5wpzk6tb3spC7KKjrPEjOgJpz.PgVA90Qd9A03cHv3ofXBAB1V6azIeHaMmWY%2ByGX0E8g","accept-encoding":"gzip, deflate","content-length":"56","connection":"keep-alive"}} 
+ Error: This Email is busy
+    at new HttpError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/http.error.js:4:54)
+    at UserServices._callee$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:20:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:31:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:31:361
+    at <anonymous> 
+
+2018-09-18T13:11:40.140Z info: Get url: /api/users, method: POST
+2018-09-18T13:12:20.484Z info: Server has benn started on PORT 3000 in development 
+2018-09-18T13:12:20.533Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-18T13:12:47.199Z info: Server has benn started on PORT 3000 in development 
+2018-09-18T13:12:47.249Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-18T13:13:34.420Z error: 
+ Error request {"method":"POST","url":"/users","header":{"content-type":"application/json","cache-control":"no-cache","postman-token":"58b0fef7-9463-4969-98fe-1e272d4cf2dd","user-agent":"PostmanRuntime/7.3.0","accept":"*/*","host":"localhost:3000","cookie":"connect.sid=s%3AXLUNovT5wpzk6tb3spC7KKjrPEjOgJpz.PgVA90Qd9A03cHv3ofXBAB1V6azIeHaMmWY%2ByGX0E8g","accept-encoding":"gzip, deflate","content-length":"56","connection":"keep-alive"}} 
+ Error: This Email is busy
+    at new HttpError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/http.error.js:4:54)
+    at UserServices._callee$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:20:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:31:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:31:361
+    at <anonymous> 
+
+2018-09-18T13:13:40.975Z error: 
+ Error request {"method":"POST","url":"/users","header":{"content-type":"application/json","cache-control":"no-cache","postman-token":"4b3f1249-05ca-4dca-8f25-74d82cc478f8","user-agent":"PostmanRuntime/7.3.0","accept":"*/*","host":"localhost:3000","cookie":"connect.sid=s%3AXLUNovT5wpzk6tb3spC7KKjrPEjOgJpz.PgVA90Qd9A03cHv3ofXBAB1V6azIeHaMmWY%2ByGX0E8g","accept-encoding":"gzip, deflate","content-length":"56","connection":"keep-alive"}} 
+ Error: This Email is busy
+    at new HttpError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/http.error.js:4:54)
+    at UserServices._callee$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:20:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:31:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:31:361
+    at <anonymous> 
+
+2018-09-18T13:13:47.162Z info: Get url: /api/users, method: POST
+2018-09-18T13:15:07.735Z info: Server has benn started on PORT 3000 in development 
+2018-09-18T13:15:07.787Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-18T13:16:04.255Z info: Server has benn started on PORT 3000 in development 
+2018-09-18T13:16:04.305Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-18T13:16:10.803Z info: Get url: /api/users/confirm, method: POST
+2018-09-18T13:16:55.595Z info: Server has benn started on PORT 3000 in development 
+2018-09-18T13:16:55.650Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-18T13:16:58.317Z info: Get url: /api/users/confirm, method: POST
+2018-09-18T13:20:33.001Z info: Server has benn started on PORT 3000 in development 
+2018-09-18T13:20:33.051Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-18T13:22:16.952Z info: Server has benn started on PORT 3000 in development 
+2018-09-18T13:22:17.007Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-18T13:24:06.924Z info: Server has benn started on PORT 3000 in development 
+2018-09-18T13:24:06.973Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-18T13:24:14.072Z info: Get url: /api/users/confirm, method: POST
+2018-09-18T13:24:26.144Z error: 
+ Error request {"method":"POST","url":"/users","header":{"content-type":"application/json","cache-control":"no-cache","postman-token":"47bf1b75-26c2-4116-899a-0ff7b54b36ef","user-agent":"PostmanRuntime/7.3.0","accept":"*/*","host":"localhost:3000","cookie":"connect.sid=s%3AXLUNovT5wpzk6tb3spC7KKjrPEjOgJpz.PgVA90Qd9A03cHv3ofXBAB1V6azIeHaMmWY%2ByGX0E8g","accept-encoding":"gzip, deflate","content-length":"56","connection":"keep-alive"}} 
+ Error: This Email is busy
+    at new HttpError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/http.error.js:4:54)
+    at UserServices._callee$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:20:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:31:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:31:361
+    at <anonymous> 
+
+2018-09-18T13:24:39.055Z info: Get url: /api/users, method: POST
+2018-09-18T13:24:43.485Z error: 
+ Error request {"method":"POST","url":"/users","header":{"content-type":"application/json","cache-control":"no-cache","postman-token":"a778c6f3-18af-4faf-8f4f-bc51e814d3d4","user-agent":"PostmanRuntime/7.3.0","accept":"*/*","host":"localhost:3000","cookie":"connect.sid=s%3AXLUNovT5wpzk6tb3spC7KKjrPEjOgJpz.PgVA90Qd9A03cHv3ofXBAB1V6azIeHaMmWY%2ByGX0E8g","accept-encoding":"gzip, deflate","content-length":"56","connection":"keep-alive"}} 
+ Error: This Email is busy
+    at new HttpError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/http.error.js:4:54)
+    at UserServices._callee$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:20:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:31:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:31:361
+    at <anonymous> 
+
+2018-09-18T13:24:53.150Z info: Get url: /api/users/confirm, method: POST
+2018-09-18T13:25:04.321Z error: 
+ Error request {"method":"POST","url":"/users/confirm","header":{"content-type":"application/json","cache-control":"no-cache","postman-token":"c034a1e7-6870-47d2-99b1-d015cc9a9b6c","user-agent":"PostmanRuntime/7.3.0","accept":"*/*","host":"localhost:3000","cookie":"connect.sid=s%3AXLUNovT5wpzk6tb3spC7KKjrPEjOgJpz.PgVA90Qd9A03cHv3ofXBAB1V6azIeHaMmWY%2ByGX0E8g","accept-encoding":"gzip, deflate","content-length":"56","connection":"keep-alive"}} 
+ Error: User not found
+    at new HttpError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/http.error.js:4:54)
+    at UserServices._callee3$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:50:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:31:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:31:361
+    at <anonymous> 
+
+2018-09-18T13:25:21.728Z info: Server has benn started on PORT 3000 in development 
+2018-09-18T13:25:21.780Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-18T13:25:31.700Z error: 
+ Error request {"method":"POST","url":"/users/signin","header":{"content-type":"application/json","cache-control":"no-cache","postman-token":"a8dad982-d9f6-4dc5-b60e-c8f53b6206d6","user-agent":"PostmanRuntime/7.3.0","accept":"*/*","host":"localhost:3000","cookie":"connect.sid=s%3AXLUNovT5wpzk6tb3spC7KKjrPEjOgJpz.PgVA90Qd9A03cHv3ofXBAB1V6azIeHaMmWY%2ByGX0E8g","accept-encoding":"gzip, deflate","content-length":"56","connection":"keep-alive"}} 
+ Error: Email not found
+    at new HttpError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/http.error.js:4:54)
+    at UserServices._callee2$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:36:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:31:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:31:361
+    at <anonymous> 
+
+2018-09-18T13:25:36.697Z info: Get url: /api/users/signin, method: POST
+2018-09-18T13:41:43.477Z info: Server has benn started on PORT 3000 in development 
+2018-09-18T13:41:43.530Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-18T13:42:53.088Z info: Server has benn started on PORT 3000 in development 
+2018-09-18T13:42:53.138Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-18T13:43:44.290Z info: Server has benn started on PORT 3000 in development 
+2018-09-18T13:43:44.342Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-18T13:43:58.624Z info: Get url: /api/users/confirm, method: POST
+2018-09-18T13:44:48.181Z info: Server has benn started on PORT 3000 in development 
+2018-09-18T13:44:48.231Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-18T13:45:00.727Z info: Get url: /api/users, method: POST
+2018-09-18T13:45:07.661Z info: Get url: /api/users/confirm, method: POST
+2018-09-19T06:59:22.665Z info: Server has benn started on PORT 3000 in development 
+2018-09-19T06:59:22.715Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-19T06:59:26.914Z info: Get url: /api/users/confirm, method: POST
+2018-09-19T07:00:44.477Z info: Server has benn started on PORT 3000 in development 
+2018-09-19T07:00:44.527Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-19T07:00:50.923Z error: 
+ Error request {"method":"POST","url":"/users","header":{"content-type":"application/json","cache-control":"no-cache","postman-token":"6396f123-6b61-4b5a-b777-de01151ee3b9","user-agent":"PostmanRuntime/7.3.0","accept":"*/*","host":"localhost:3000","cookie":"connect.sid=s%3AXLUNovT5wpzk6tb3spC7KKjrPEjOgJpz.PgVA90Qd9A03cHv3ofXBAB1V6azIeHaMmWY%2ByGX0E8g","accept-encoding":"gzip, deflate","content-length":"56","connection":"keep-alive"}} 
+ Error: This Email is busy
+    at new HttpError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/http.error.js:4:54)
+    at UserServices._callee$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:21:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:35:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:35:361
+    at <anonymous> 
+
+2018-09-19T07:01:03.008Z info: Get url: /api/users, method: POST
+2018-09-19T07:01:39.855Z error: 
+ Error request {"method":"POST","url":"/users","header":{"content-type":"application/json","cache-control":"no-cache","postman-token":"79d60e82-0891-4052-a386-72d73ed952e3","user-agent":"PostmanRuntime/7.3.0","accept":"*/*","host":"localhost:3000","cookie":"connect.sid=s%3AXLUNovT5wpzk6tb3spC7KKjrPEjOgJpz.PgVA90Qd9A03cHv3ofXBAB1V6azIeHaMmWY%2ByGX0E8g","accept-encoding":"gzip, deflate","content-length":"56","connection":"keep-alive"}} 
+ Error: This Email is busy
+    at new HttpError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/http.error.js:4:54)
+    at UserServices._callee$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:21:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:35:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:35:361
+    at <anonymous> 
+
+2018-09-19T07:01:51.758Z error: 
+ Error request {"method":"POST","url":"/users","header":{"content-type":"application/json","cache-control":"no-cache","postman-token":"92c94467-8aae-4b43-9df0-df2739700b77","user-agent":"PostmanRuntime/7.3.0","accept":"*/*","host":"localhost:3000","cookie":"connect.sid=s%3AXLUNovT5wpzk6tb3spC7KKjrPEjOgJpz.PgVA90Qd9A03cHv3ofXBAB1V6azIeHaMmWY%2ByGX0E8g","accept-encoding":"gzip, deflate","content-length":"50","connection":"keep-alive"}} 
+ Error: [object Object]
+    at new ValidError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/valid.error.js:4:52)
+    at _callee$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:21:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:99
+    at validate (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:12:3)
+    at _callee2$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:19:11)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:99
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:18:1
+    at dispatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-body/index.js:110:14 
+
+2018-09-19T07:03:16.915Z info: Server has benn started on PORT 3000 in development 
+2018-09-19T07:03:16.967Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-19T07:03:34.614Z info: Server has benn started on PORT 3000 in development 
+2018-09-19T07:03:34.666Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-19T07:03:42.274Z error: 
+ Error request {"method":"POST","url":"/users/signin","header":{"content-type":"application/json","cache-control":"no-cache","postman-token":"73babd35-7934-4172-bc0f-1865095780a9","user-agent":"PostmanRuntime/7.3.0","accept":"*/*","host":"localhost:3000","cookie":"connect.sid=s%3AXLUNovT5wpzk6tb3spC7KKjrPEjOgJpz.PgVA90Qd9A03cHv3ofXBAB1V6azIeHaMmWY%2ByGX0E8g","accept-encoding":"gzip, deflate","content-length":"50","connection":"keep-alive"}} 
+ Error: [object Object]
+    at new ValidError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/valid.error.js:4:52)
+    at _callee$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:21:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:99
+    at validate (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:12:3)
+    at _callee3$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:26:9)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:99
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:25:1
+    at dispatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-body/index.js:110:14 
+
+2018-09-19T07:03:47.042Z error: 
+ Error request {"method":"POST","url":"/users/signin","header":{"content-type":"application/json","cache-control":"no-cache","postman-token":"66a8a96e-835a-4b91-8aa3-20e535942209","user-agent":"PostmanRuntime/7.3.0","accept":"*/*","host":"localhost:3000","cookie":"connect.sid=s%3AXLUNovT5wpzk6tb3spC7KKjrPEjOgJpz.PgVA90Qd9A03cHv3ofXBAB1V6azIeHaMmWY%2ByGX0E8g","accept-encoding":"gzip, deflate","content-length":"51","connection":"keep-alive"}} 
+ Error: [object Object]
+    at new ValidError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/valid.error.js:4:52)
+    at _callee$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:21:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:99
+    at validate (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:12:3)
+    at _callee3$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:26:9)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:99
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:25:1
+    at dispatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-body/index.js:110:14 
+
+2018-09-19T07:03:51.771Z error: 
+ Error request {"method":"POST","url":"/users/signin","header":{"content-type":"application/json","cache-control":"no-cache","postman-token":"d5261353-803a-49de-99c5-a6da7f01cfe7","user-agent":"PostmanRuntime/7.3.0","accept":"*/*","host":"localhost:3000","cookie":"connect.sid=s%3AXLUNovT5wpzk6tb3spC7KKjrPEjOgJpz.PgVA90Qd9A03cHv3ofXBAB1V6azIeHaMmWY%2ByGX0E8g","accept-encoding":"gzip, deflate","content-length":"56","connection":"keep-alive"}} 
+ Error: Password not valid
+    at new HttpError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/http.error.js:4:54)
+    at UserServices._callee2$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:43:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:35:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:35:361
+    at <anonymous> 
+
+2018-09-19T07:04:05.077Z info: Get url: /api/users/signin, method: POST
+2018-09-19T07:04:18.433Z error: 
+ Error request {"method":"POST","url":"/users/signin","header":{"content-type":"application/json","cache-control":"no-cache","postman-token":"a3601574-49b0-4570-b302-83a68d260302","user-agent":"PostmanRuntime/7.3.0","accept":"*/*","host":"localhost:3000","cookie":"connect.sid=s%3AXLUNovT5wpzk6tb3spC7KKjrPEjOgJpz.PgVA90Qd9A03cHv3ofXBAB1V6azIeHaMmWY%2ByGX0E8g","accept-encoding":"gzip, deflate","content-length":"56","connection":"keep-alive"}} 
+ Error: Email not found
+    at new HttpError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/http.error.js:4:54)
+    at UserServices._callee2$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:37:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:35:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:35:361
+    at <anonymous> 
+
+2018-09-19T07:04:36.109Z info: Server has benn started on PORT 3000 in development 
+2018-09-19T07:04:36.160Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-19T07:04:56.879Z info: Server has benn started on PORT 3000 in development 
+2018-09-19T07:04:56.933Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-19T07:19:04.965Z info: Server has benn started on PORT 3000 in development 
+2018-09-19T07:19:05.015Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-19T07:19:15.099Z info: Server has benn started on PORT 3000 in development 
+2018-09-19T07:19:15.150Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-19T07:24:33.890Z info: Server has benn started on PORT 3000 in development 
+2018-09-19T07:24:33.939Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-19T07:28:20.069Z info: Server has benn started on PORT 3000 in development 
+2018-09-19T07:28:20.136Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-19T07:29:04.486Z error: 
+ Error request {"method":"POST","url":"/users/signin","header":{"content-type":"application/json","cache-control":"no-cache","postman-token":"645b02d2-f919-40f2-b644-a67f646e5284","user-agent":"PostmanRuntime/7.3.0","accept":"*/*","host":"localhost:3000","cookie":"connect.sid=s%3AXLUNovT5wpzk6tb3spC7KKjrPEjOgJpz.PgVA90Qd9A03cHv3ofXBAB1V6azIeHaMmWY%2ByGX0E8g","accept-encoding":"gzip, deflate","content-length":"56","connection":"keep-alive"}} 
+ Error: Email not found
+    at new HttpError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/http.error.js:4:54)
+    at UserServices._callee2$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:38:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:39:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:39:361
+    at <anonymous> 
+
+2018-09-19T07:29:09.242Z error: 
+ Error request {"method":"POST","url":"/users/signin","header":{"content-type":"application/json","cache-control":"no-cache","postman-token":"bb0a2383-65a5-438d-b232-6a7089024475","user-agent":"PostmanRuntime/7.3.0","accept":"*/*","host":"localhost:3000","cookie":"connect.sid=s%3AXLUNovT5wpzk6tb3spC7KKjrPEjOgJpz.PgVA90Qd9A03cHv3ofXBAB1V6azIeHaMmWY%2ByGX0E8g","accept-encoding":"gzip, deflate","content-length":"56","connection":"keep-alive"}} 
+ Error: Your Email is not activate. Please, confirm email
+    at new HttpError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/http.error.js:4:54)
+    at UserServices._callee2$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:42:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:39:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:39:361
+    at <anonymous> 
+
+2018-09-19T07:29:25.750Z info: Get url: /api/users/confirm, method: POST
+2018-09-19T07:29:33.953Z error: 
+ Error request {"method":"POST","url":"/users/signin","header":{"content-type":"application/json","cache-control":"no-cache","postman-token":"66057257-35da-4e02-8965-71277254daa0","user-agent":"PostmanRuntime/7.3.0","accept":"*/*","host":"localhost:3000","cookie":"connect.sid=s%3AXLUNovT5wpzk6tb3spC7KKjrPEjOgJpz.PgVA90Qd9A03cHv3ofXBAB1V6azIeHaMmWY%2ByGX0E8g","accept-encoding":"gzip, deflate","content-length":"57","connection":"keep-alive"}} 
+ Error: Your Email is not activate. Please, confirm email
+    at new HttpError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/http.error.js:4:54)
+    at UserServices._callee2$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:42:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:39:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:39:361
+    at <anonymous> 
+
+2018-09-19T07:30:11.056Z info: Server has benn started on PORT 3000 in development 
+2018-09-19T07:30:11.106Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-19T07:30:14.884Z error: 
+ Error request {"method":"POST","url":"/users/signin","header":{"content-type":"application/json","cache-control":"no-cache","postman-token":"c465c972-d9bf-4e8c-8da9-d12f00808340","user-agent":"PostmanRuntime/7.3.0","accept":"*/*","host":"localhost:3000","cookie":"connect.sid=s%3AXLUNovT5wpzk6tb3spC7KKjrPEjOgJpz.PgVA90Qd9A03cHv3ofXBAB1V6azIeHaMmWY%2ByGX0E8g","accept-encoding":"gzip, deflate","content-length":"57","connection":"keep-alive"}} 
+ Error: Your Email is not activate. Please, confirm email
+    at new HttpError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/http.error.js:4:54)
+    at UserServices._callee2$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:42:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:39:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:39:361
+    at <anonymous> 
+
+2018-09-19T07:31:47.835Z info: Server has benn started on PORT 3000 in development 
+2018-09-19T07:31:47.890Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-19T07:31:55.683Z info: Server has benn started on PORT 3000 in development 
+2018-09-19T07:31:55.736Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-19T07:32:46.757Z info: Server has benn started on PORT 3000 in development 
+2018-09-19T07:32:46.810Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-19T07:33:23.325Z info: Server has benn started on PORT 3000 in development 
+2018-09-19T07:33:23.377Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-19T07:34:47.032Z info: Server has benn started on PORT 3000 in development 
+2018-09-19T07:34:47.095Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-19T07:36:40.253Z info: Server has benn started on PORT 3000 in development 
+2018-09-19T07:36:40.304Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-19T07:43:42.373Z info: Server has benn started on PORT 3000 in development 
+2018-09-19T07:43:42.426Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-19T07:44:29.122Z info: Server has benn started on PORT 3000 in development 
+2018-09-19T07:44:29.177Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-19T07:44:36.750Z error: 
+ Error request {"method":"POST","url":"/users/signin","header":{"content-type":"application/json","cache-control":"no-cache","postman-token":"e2690683-3bba-4c23-9f1e-d2c1073916f3","user-agent":"PostmanRuntime/7.3.0","accept":"*/*","host":"localhost:3000","cookie":"connect.sid=s%3AXLUNovT5wpzk6tb3spC7KKjrPEjOgJpz.PgVA90Qd9A03cHv3ofXBAB1V6azIeHaMmWY%2ByGX0E8g","accept-encoding":"gzip, deflate","content-length":"57","connection":"keep-alive"}} 
+ Error: Password not valid
+    at new HttpError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/http.error.js:4:54)
+    at UserServices._callee2$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:50:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:39:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:39:361
+    at <anonymous> 
+
+2018-09-19T07:44:42.917Z info: Get url: /api/users/signin, method: POST
+2018-09-19T07:44:49.368Z error: 
+ Error request {"method":"POST","url":"/users","header":{"content-type":"application/json","cache-control":"no-cache","postman-token":"72ea5145-3451-4f11-a6bb-9c33ed50fdee","user-agent":"PostmanRuntime/7.3.0","accept":"*/*","host":"localhost:3000","cookie":"connect.sid=s%3AXLUNovT5wpzk6tb3spC7KKjrPEjOgJpz.PgVA90Qd9A03cHv3ofXBAB1V6azIeHaMmWY%2ByGX0E8g","accept-encoding":"gzip, deflate","content-length":"56","connection":"keep-alive"}} 
+ Error: This Email is busy
+    at new HttpError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/http.error.js:4:54)
+    at UserServices._callee$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:22:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:39:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:39:361
+    at <anonymous> 
+
+2018-09-19T07:44:57.705Z info: Get url: /api/users, method: POST
+2018-09-19T07:45:05.903Z info: Get url: /api/users/signin, method: POST
+2018-09-19T07:45:37.846Z error: 
+ Error request {"method":"POST","url":"/users/signin","header":{"content-type":"application/json","cache-control":"no-cache","postman-token":"7de430b5-bf25-447b-b214-e28e043378b6","user-agent":"PostmanRuntime/7.3.0","accept":"*/*","host":"localhost:3000","cookie":"connect.sid=s%3AXLUNovT5wpzk6tb3spC7KKjrPEjOgJpz.PgVA90Qd9A03cHv3ofXBAB1V6azIeHaMmWY%2ByGX0E8g","accept-encoding":"gzip, deflate","content-length":"52","connection":"keep-alive"}} 
+ Error: Email not found
+    at new HttpError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/http.error.js:4:54)
+    at UserServices._callee2$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:38:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:39:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:39:361
+    at <anonymous> 
+
+2018-09-19T07:45:44.500Z info: Get url: /api/users, method: POST
+2018-09-19T07:45:55.395Z info: Get url: /api/users/signin, method: POST
+2018-09-19T07:46:42.549Z info: Server has benn started on PORT 3000 in development 
+2018-09-19T07:46:42.600Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-19T07:46:52.976Z info: Get url: /api/users/signin, method: POST
+2018-09-19T07:47:02.705Z info: Server has benn started on PORT 3000 in development 
+2018-09-19T07:47:02.754Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-19T07:47:06.670Z info: Get url: /api/users/signin, method: POST
+2018-09-19T07:47:43.550Z info: Server has benn started on PORT 3000 in development 
+2018-09-19T07:47:43.599Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-19T07:47:50.869Z error: 
+ Error request {"method":"POST","url":"/users/signin","header":{"content-type":"application/json","cache-control":"no-cache","postman-token":"b2072a42-8d44-4703-868f-a5b384f80298","user-agent":"PostmanRuntime/7.3.0","accept":"*/*","host":"localhost:3000","cookie":"connect.sid=s%3AXLUNovT5wpzk6tb3spC7KKjrPEjOgJpz.PgVA90Qd9A03cHv3ofXBAB1V6azIeHaMmWY%2ByGX0E8g","accept-encoding":"gzip, deflate","content-length":"52","connection":"keep-alive"}} 
+ Error: Your Email is not activate. Please, confirm email
+    at new HttpError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/http.error.js:4:54)
+    at UserServices._callee2$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:42:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:39:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:39:361
+    at <anonymous> 
+
+2018-09-19T07:49:22.655Z info: Server has benn started on PORT 3000 in development 
+2018-09-19T07:49:22.707Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-19T07:49:44.997Z info: Server has benn started on PORT 3000 in development 
+2018-09-19T07:49:45.051Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-19T07:50:10.321Z info: Server has benn started on PORT 3000 in development 
+2018-09-19T07:50:10.370Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-19T07:50:15.885Z error: 
+ Error request {"method":"POST","url":"/users/signin","header":{"content-type":"application/json","cache-control":"no-cache","postman-token":"641f261d-9832-48ac-afab-8cc84d316ae7","user-agent":"PostmanRuntime/7.3.0","accept":"*/*","host":"localhost:3000","cookie":"connect.sid=s%3AXLUNovT5wpzk6tb3spC7KKjrPEjOgJpz.PgVA90Qd9A03cHv3ofXBAB1V6azIeHaMmWY%2ByGX0E8g","accept-encoding":"gzip, deflate","content-length":"52","connection":"keep-alive"}} 
+ Error: Your Email is not activate. Please, confirm email
+    at new HttpError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/http.error.js:4:54)
+    at UserServices._callee2$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:42:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:39:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:39:361
+    at <anonymous> 
+
+2018-09-19T07:50:26.951Z info: Get url: /api/users/confirm, method: POST
+2018-09-19T07:52:21.561Z info: Server has benn started on PORT 3000 in development 
+2018-09-19T07:52:21.612Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-19T07:52:29.402Z error: 
+ Error request {"method":"POST","url":"/users/delete","header":{"content-type":"application/json","cache-control":"no-cache","postman-token":"8d551dcc-8950-4b27-9ba2-36551da63c0d","user-agent":"PostmanRuntime/7.3.0","accept":"*/*","host":"localhost:3000","cookie":"connect.sid=s%3AXLUNovT5wpzk6tb3spC7KKjrPEjOgJpz.PgVA90Qd9A03cHv3ofXBAB1V6azIeHaMmWY%2ByGX0E8g","accept-encoding":"gzip, deflate","content-length":"53","connection":"keep-alive"}} 
+ Error: Password not valid
+    at new HttpError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/http.error.js:4:54)
+    at UserServices._callee4$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:76:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:39:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:39:361
+    at <anonymous> 
+
+2018-09-19T07:52:34.285Z info: Get url: /api/users/delete, method: POST
+2018-09-19T07:52:45.347Z error: 
+ Error request {"method":"POST","url":"/users/signin","header":{"content-type":"application/json","cache-control":"no-cache","postman-token":"110820c1-7325-4025-97c8-c8f5f3080302","user-agent":"PostmanRuntime/7.3.0","accept":"*/*","host":"localhost:3000","cookie":"connect.sid=s%3AXLUNovT5wpzk6tb3spC7KKjrPEjOgJpz.PgVA90Qd9A03cHv3ofXBAB1V6azIeHaMmWY%2ByGX0E8g","accept-encoding":"gzip, deflate","content-length":"52","connection":"keep-alive"}} 
+ Error: Your Account is deleted. Please, reestablish email
+    at new HttpError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/http.error.js:4:54)
+    at UserServices._callee2$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:44:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:39:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:39:361
+    at <anonymous> 
+
+2018-09-19T07:52:55.389Z info: Get url: /api/users/confirm, method: POST
+2018-09-19T07:53:03.125Z info: Get url: /api/users/signin, method: POST
+2018-09-20T13:13:35.277Z info: Server has benn started on PORT 3000 in development 
+2018-09-20T13:13:35.337Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-20T13:23:00.014Z info: Get url: /api/users, method: GET
+2018-09-20T13:23:04.667Z error: 
+ Error request {"method":"POST","url":"/users","header":{"cache-control":"no-cache","postman-token":"0ea1ae36-4241-486e-986d-e507385ea352","user-agent":"PostmanRuntime/7.3.0","accept":"*/*","host":"localhost:3000","accept-encoding":"gzip, deflate","content-length":"0","connection":"keep-alive"}} 
+ Error: [object Object]
+    at new ValidError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/valid.error.js:4:52)
+    at _callee$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:21:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:99
+    at validate (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:12:3)
+    at _callee2$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:18:11)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:99
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:17:1
+    at dispatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-body/index.js:110:14 
+
+2018-09-20T13:24:42.167Z info: Server has benn started on PORT 3000 in development 
+2018-09-20T13:24:42.219Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-20T13:27:08.714Z info: Server has benn started on PORT 3000 in development 
+2018-09-20T13:27:08.766Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-20T13:27:15.567Z info: Server has benn started on PORT 3000 in development 
+2018-09-20T13:27:15.616Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-20T13:27:19.351Z error: 
+ Error request {"method":"GET","url":"/users","header":{"cache-control":"no-cache","postman-token":"570a0fcc-8817-4e65-8a87-080b3c5ed35c","user-agent":"PostmanRuntime/7.3.0","accept":"*/*","host":"localhost:3000","accept-encoding":"gzip, deflate","connection":"keep-alive"}} 
+ TypeError: _this.userService.findAll is not a function
+    at UserServices._callee5$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:85:40)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:39:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:39:437
+    at new Promise (<anonymous>)
+    at UserServices.getUsers (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:39:99)
+    at _callee$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:14:31)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:361
+    at <anonymous>
+    at process._tickDomainCallback (internal/process/next_tick.js:229:7) 
+
+2018-09-20T13:29:07.329Z info: Server has benn started on PORT 3000 in development 
+2018-09-20T13:29:07.379Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-20T13:29:09.299Z info: Get url: /api/users, method: GET
+2018-09-20T13:30:04.067Z info: Get url: /api/users, method: GET
+2018-09-20T13:31:59.277Z info: Get url: /api/users, method: GET
+2018-09-20T13:34:32.712Z info: Get url: /api/users, method: GET
+2018-09-20T13:34:40.992Z info: Get url: /api/users, method: GET
+2018-09-20T13:35:18.549Z info: Get url: /api/users, method: GET
+2018-09-20T13:37:04.344Z info: Server has benn started on PORT 3000 in development 
+2018-09-20T13:37:04.395Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-20T13:39:47.409Z info: Server has benn started on PORT 3000 in development 
+2018-09-20T13:39:47.469Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-20T13:40:41.894Z info: Server has benn started on PORT 3000 in development 
+2018-09-20T13:40:41.946Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-20T13:40:51.888Z info: Server has benn started on PORT 3000 in development 
+2018-09-20T13:40:51.945Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-20T13:40:59.392Z info: Server has benn started on PORT 3000 in development 
+2018-09-20T13:40:59.445Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-20T13:41:04.687Z info: Get url: /api/users, method: GET
+2018-09-20T13:41:26.981Z info: Get url: /api/users, method: GET
+2018-09-20T13:45:35.877Z info: Get url: /api//users, method: GET
+2018-09-20T13:47:57.972Z info: Get url: /api//users, method: GET
+2018-09-20T13:51:30.144Z info: Get url: /api//users, method: POST
+2018-09-20T13:51:50.100Z info: Get url: /api//users, method: POST
+2018-09-20T13:52:49.282Z error: 
+ Error request {"method":"POST","url":"/users","header":{"host":"localhost:3000","connection":"keep-alive","content-length":"55","accept":"application/json, text/plain, */*","origin":"http://localhost:4200","user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36","content-type":"application/json","referer":"http://localhost:4200/?email=asd&password=asd","accept-encoding":"gzip, deflate, br","accept-language":"en-US,en;q=0.9,ru;q=0.8"}} 
+ Error: [object Object]
+    at new ValidError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/valid.error.js:4:52)
+    at _callee$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:21:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:99
+    at validate (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:12:3)
+    at _callee2$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:20:11)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:99
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:19:1
+    at dispatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-body/index.js:110:14 
+
+2018-09-20T14:00:05.012Z error: 
+ Error request {"method":"POST","url":"/users","header":{"host":"localhost:3000","connection":"keep-alive","content-length":"55","accept":"application/json, text/plain, */*","origin":"http://localhost:4200","user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36","content-type":"application/json","referer":"http://localhost:4200/?email=asd&password=asd","accept-encoding":"gzip, deflate, br","accept-language":"en-US,en;q=0.9,ru;q=0.8"}} 
+ Error: [object Object]
+    at new ValidError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/valid.error.js:4:52)
+    at _callee$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:21:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:99
+    at validate (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:12:3)
+    at _callee2$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:20:11)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:99
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:19:1
+    at dispatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-body/index.js:110:14 
+
+2018-09-20T14:00:51.435Z error: 
+ Error request {"method":"POST","url":"/users","header":{"host":"localhost:3000","connection":"keep-alive","content-length":"55","accept":"application/json, text/plain, */*","origin":"http://localhost:4200","user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36","content-type":"application/json","referer":"http://localhost:4200/?email=asd&password=asd","accept-encoding":"gzip, deflate, br","accept-language":"en-US,en;q=0.9,ru;q=0.8"}} 
+ Error: [object Object]
+    at new ValidError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/valid.error.js:4:52)
+    at _callee$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:21:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:99
+    at validate (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:12:3)
+    at _callee2$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:20:11)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:99
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:19:1
+    at dispatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-body/index.js:110:14 
+
+2018-09-20T14:04:09.348Z error: 
+ Error request {"method":"POST","url":"/users","header":{"host":"localhost:3000","connection":"keep-alive","content-length":"55","accept":"application/json, text/plain, */*","origin":"http://localhost:4200","user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36","content-type":"application/json","referer":"http://localhost:4200/?email=asd&password=asd","accept-encoding":"gzip, deflate, br","accept-language":"en-US,en;q=0.9,ru;q=0.8"}} 
+ Error: [object Object]
+    at new ValidError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/valid.error.js:4:52)
+    at _callee$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:21:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:99
+    at validate (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:12:3)
+    at _callee2$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:20:11)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:99
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:19:1
+    at dispatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-body/index.js:110:14 
+
+2018-09-20T14:06:28.062Z error: 
+ Error request {"method":"POST","url":"/users","header":{"host":"localhost:3000","connection":"keep-alive","content-length":"55","accept":"application/json, text/plain, */*","origin":"http://localhost:4200","user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36","content-type":"application/json","referer":"http://localhost:4200/?email=asd&password=asd","accept-encoding":"gzip, deflate, br","accept-language":"en-US,en;q=0.9,ru;q=0.8"}} 
+ Error: [object Object]
+    at new ValidError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/valid.error.js:4:52)
+    at _callee$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:21:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:99
+    at validate (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:12:3)
+    at _callee2$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:20:11)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:99
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:19:1
+    at dispatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-body/index.js:110:14 
+
+2018-09-20T14:06:43.701Z error: 
+ Error request {"method":"POST","url":"/users","header":{"host":"localhost:3000","connection":"keep-alive","content-length":"55","accept":"application/json, text/plain, */*","origin":"http://localhost:4200","user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36","content-type":"application/json","referer":"http://localhost:4200/?email=asd&password=asd","accept-encoding":"gzip, deflate, br","accept-language":"en-US,en;q=0.9,ru;q=0.8"}} 
+ Error: [object Object]
+    at new ValidError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/valid.error.js:4:52)
+    at _callee$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:21:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:99
+    at validate (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:12:3)
+    at _callee2$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:20:11)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:99
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:19:1
+    at dispatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-body/index.js:110:14 
+
+2018-09-20T14:07:36.877Z error: 
+ Error request {"method":"POST","url":"/users","header":{"host":"localhost:3000","connection":"keep-alive","content-length":"55","accept":"application/json, text/plain, */*","origin":"http://localhost:4200","user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36","content-type":"application/json","referer":"http://localhost:4200/?email=asd&password=asd","accept-encoding":"gzip, deflate, br","accept-language":"en-US,en;q=0.9,ru;q=0.8"}} 
+ Error: [object Object]
+    at new ValidError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/valid.error.js:4:52)
+    at _callee$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:21:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:99
+    at validate (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:12:3)
+    at _callee2$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:20:11)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:99
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:19:1
+    at dispatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-body/index.js:110:14 
+
+2018-09-20T14:07:49.829Z error: 
+ Error request {"method":"POST","url":"/users","header":{"host":"localhost:3000","connection":"keep-alive","content-length":"55","accept":"application/json, text/plain, */*","origin":"http://localhost:4200","user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36","content-type":"application/json","referer":"http://localhost:4200/?email=asd&password=asd","accept-encoding":"gzip, deflate, br","accept-language":"en-US,en;q=0.9,ru;q=0.8"}} 
+ Error: [object Object]
+    at new ValidError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/valid.error.js:4:52)
+    at _callee$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:21:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:99
+    at validate (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:12:3)
+    at _callee2$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:20:11)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:99
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:19:1
+    at dispatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-body/index.js:110:14 
+
+2018-09-20T14:09:27.585Z error: 
+ Error request {"method":"POST","url":"/users","header":{"host":"localhost:3000","connection":"keep-alive","content-length":"41","accept":"application/json, text/plain, */*","origin":"http://localhost:4200","user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36","content-type":"application/json","referer":"http://localhost:4200/?email=asd&password=asd","accept-encoding":"gzip, deflate, br","accept-language":"en-US,en;q=0.9,ru;q=0.8"}} 
+ Error: [object Object]
+    at new ValidError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/valid.error.js:4:52)
+    at _callee$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:21:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:99
+    at validate (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:12:3)
+    at _callee2$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:20:11)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:99
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:19:1
+    at dispatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-body/index.js:110:14 
+
+2018-09-20T14:10:37.011Z error: 
+ Error request {"method":"POST","url":"/users","header":{"host":"localhost:3000","connection":"keep-alive","content-length":"55","accept":"application/json, text/plain, */*","origin":"http://localhost:4200","user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36","content-type":"application/json","referer":"http://localhost:4200/?email=asd&password=asd","accept-encoding":"gzip, deflate, br","accept-language":"en-US,en;q=0.9,ru;q=0.8"}} 
+ Error: [object Object]
+    at new ValidError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/valid.error.js:4:52)
+    at _callee$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:21:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:99
+    at validate (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:12:3)
+    at _callee2$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:20:11)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:99
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:19:1
+    at dispatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-body/index.js:110:14 
+
+2018-09-20T14:10:54.338Z error: 
+ Error request {"method":"POST","url":"/users","header":{"host":"localhost:3000","connection":"keep-alive","content-length":"55","accept":"application/json, text/plain, */*","origin":"http://localhost:4200","user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36","content-type":"application/json","referer":"http://localhost:4200/?email=asd&password=asd","accept-encoding":"gzip, deflate, br","accept-language":"en-US,en;q=0.9,ru;q=0.8"}} 
+ Error: [object Object]
+    at new ValidError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/valid.error.js:4:52)
+    at _callee$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:21:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:99
+    at validate (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:12:3)
+    at _callee2$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:20:11)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:99
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:19:1
+    at dispatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-body/index.js:110:14 
+
+2018-09-20T14:14:51.976Z error: 
+ Error request {"method":"POST","url":"/users","header":{"host":"localhost:3000","connection":"keep-alive","content-length":"55","accept":"application/json, text/plain, */*","origin":"http://localhost:4200","user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36","content-type":"application/json","referer":"http://localhost:4200/?email=asd&password=asd","accept-encoding":"gzip, deflate, br","accept-language":"en-US,en;q=0.9,ru;q=0.8"}} 
+ Error: [object Object]
+    at new ValidError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/valid.error.js:4:52)
+    at _callee$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:21:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:99
+    at validate (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:12:3)
+    at _callee2$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:20:11)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:99
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:19:1
+    at dispatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-body/index.js:110:14 
+
+2018-09-20T14:15:02.107Z error: 
+ Error request {"method":"POST","url":"/users","header":{"host":"localhost:3000","connection":"keep-alive","content-length":"55","accept":"application/json, text/plain, */*","origin":"http://localhost:4200","user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36","content-type":"application/json","referer":"http://localhost:4200/?email=asd&password=asd","accept-encoding":"gzip, deflate, br","accept-language":"en-US,en;q=0.9,ru;q=0.8"}} 
+ Error: [object Object]
+    at new ValidError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/valid.error.js:4:52)
+    at _callee$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:21:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:99
+    at validate (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:12:3)
+    at _callee2$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:20:11)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:99
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:19:1
+    at dispatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-body/index.js:110:14 
+
+2018-09-20T14:15:18.548Z error: 
+ Error request {"method":"POST","url":"/users","header":{"host":"localhost:3000","connection":"keep-alive","content-length":"55","accept":"application/json, text/plain, */*","origin":"http://localhost:4200","user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36","content-type":"application/json","referer":"http://localhost:4200/?email=asd&password=asd","accept-encoding":"gzip, deflate, br","accept-language":"en-US,en;q=0.9,ru;q=0.8"}} 
+ Error: [object Object]
+    at new ValidError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/valid.error.js:4:52)
+    at _callee$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:21:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:99
+    at validate (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:12:3)
+    at _callee2$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:20:11)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:99
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:19:1
+    at dispatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-body/index.js:110:14 
+
+2018-09-20T14:16:53.045Z error: 
+ Error request {"method":"POST","url":"/users","header":{"host":"localhost:3000","connection":"keep-alive","content-length":"55","accept":"application/json, text/plain, */*","origin":"http://localhost:4200","user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36","content-type":"application/json","referer":"http://localhost:4200/?email=asd&password=asd","accept-encoding":"gzip, deflate, br","accept-language":"en-US,en;q=0.9,ru;q=0.8"}} 
+ Error: [object Object]
+    at new ValidError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/valid.error.js:4:52)
+    at _callee$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:21:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:99
+    at validate (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:12:3)
+    at _callee2$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:20:11)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:99
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:19:1
+    at dispatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-body/index.js:110:14 
+
+2018-09-20T14:21:44.455Z error: 
+ Error request {"method":"POST","url":"/users","header":{"host":"localhost:3000","connection":"keep-alive","content-length":"55","accept":"application/json, text/plain, */*","origin":"http://localhost:4200","user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36","content-type":"application/json","referer":"http://localhost:4200/?email=asd&password=asd","accept-encoding":"gzip, deflate, br","accept-language":"en-US,en;q=0.9,ru;q=0.8"}} 
+ Error: [object Object]
+    at new ValidError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/valid.error.js:4:52)
+    at _callee$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:21:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:99
+    at validate (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:12:3)
+    at _callee2$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:20:11)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:99
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:19:1
+    at dispatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-body/index.js:110:14 
+
+2018-09-20T14:22:01.603Z error: 
+ Error request {"method":"POST","url":"/users","header":{"host":"localhost:3000","connection":"keep-alive","content-length":"55","accept":"application/json, text/plain, */*","origin":"http://localhost:4200","user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36","content-type":"application/json","referer":"http://localhost:4200/?email=asd&password=asd","accept-encoding":"gzip, deflate, br","accept-language":"en-US,en;q=0.9,ru;q=0.8"}} 
+ Error: [object Object]
+    at new ValidError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/valid.error.js:4:52)
+    at _callee$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:21:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:99
+    at validate (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:12:3)
+    at _callee2$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:20:11)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:99
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:19:1
+    at dispatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-body/index.js:110:14 
+
+2018-09-20T14:22:31.498Z error: 
+ Error request {"method":"POST","url":"/users","header":{"host":"localhost:3000","connection":"keep-alive","content-length":"55","accept":"application/json, text/plain, */*","origin":"http://localhost:4200","user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36","content-type":"application/json","referer":"http://localhost:4200/?email=asd&password=asd","accept-encoding":"gzip, deflate, br","accept-language":"en-US,en;q=0.9,ru;q=0.8"}} 
+ Error: [object Object]
+    at new ValidError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/valid.error.js:4:52)
+    at _callee$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:21:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:99
+    at validate (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:12:3)
+    at _callee2$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:20:11)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:99
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:19:1
+    at dispatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-body/index.js:110:14 
+
+2018-09-20T14:22:51.668Z error: 
+ Error request {"method":"POST","url":"/users","header":{"host":"localhost:3000","connection":"keep-alive","content-length":"55","accept":"application/json, text/plain, */*","origin":"http://localhost:4200","user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36","content-type":"application/json","referer":"http://localhost:4200/?email=asd&password=asd","accept-encoding":"gzip, deflate, br","accept-language":"en-US,en;q=0.9,ru;q=0.8"}} 
+ Error: [object Object]
+    at new ValidError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/valid.error.js:4:52)
+    at _callee$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:21:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:99
+    at validate (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:12:3)
+    at _callee2$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:20:11)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:99
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:19:1
+    at dispatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-body/index.js:110:14 
+
+2018-09-20T14:23:06.660Z error: 
+ Error request {"method":"POST","url":"/users","header":{"host":"localhost:3000","connection":"keep-alive","content-length":"55","accept":"application/json, text/plain, */*","origin":"http://localhost:4200","user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36","content-type":"application/json","referer":"http://localhost:4200/?email=asd&password=asd","accept-encoding":"gzip, deflate, br","accept-language":"en-US,en;q=0.9,ru;q=0.8"}} 
+ Error: [object Object]
+    at new ValidError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/valid.error.js:4:52)
+    at _callee$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:21:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:99
+    at validate (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:12:3)
+    at _callee2$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:20:11)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:99
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:19:1
+    at dispatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-body/index.js:110:14 
+
+2018-09-20T14:23:15.811Z error: 
+ Error request {"method":"POST","url":"/users","header":{"host":"localhost:3000","connection":"keep-alive","content-length":"55","accept":"application/json, text/plain, */*","origin":"http://localhost:4200","user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36","content-type":"application/json","referer":"http://localhost:4200/?email=asd&password=asd","accept-encoding":"gzip, deflate, br","accept-language":"en-US,en;q=0.9,ru;q=0.8"}} 
+ Error: [object Object]
+    at new ValidError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/valid.error.js:4:52)
+    at _callee$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:21:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:99
+    at validate (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:12:3)
+    at _callee2$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:20:11)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:99
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:19:1
+    at dispatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-body/index.js:110:14 
+
+2018-09-20T14:24:21.626Z error: 
+ Error request {"method":"POST","url":"/users","header":{"host":"localhost:3000","connection":"keep-alive","content-length":"55","accept":"application/json, text/plain, */*","origin":"http://localhost:4200","user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36","content-type":"application/json","referer":"http://localhost:4200/?email=asd&password=asd","accept-encoding":"gzip, deflate, br","accept-language":"en-US,en;q=0.9,ru;q=0.8"}} 
+ Error: [object Object]
+    at new ValidError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/valid.error.js:4:52)
+    at _callee$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:21:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:99
+    at validate (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:12:3)
+    at _callee2$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:20:11)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:99
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:19:1
+    at dispatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-body/index.js:110:14 
+
+2018-09-20T14:24:51.792Z error: 
+ Error request {"method":"POST","url":"/users","header":{"host":"localhost:3000","connection":"keep-alive","content-length":"55","accept":"application/json, text/plain, */*","origin":"http://localhost:4200","user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36","content-type":"application/json","referer":"http://localhost:4200/?email=asd&password=asd","accept-encoding":"gzip, deflate, br","accept-language":"en-US,en;q=0.9,ru;q=0.8"}} 
+ Error: [object Object]
+    at new ValidError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/valid.error.js:4:52)
+    at _callee$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:21:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:99
+    at validate (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:12:3)
+    at _callee2$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:20:11)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:99
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:19:1
+    at dispatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-body/index.js:110:14 
+
+2018-09-20T14:25:04.574Z info: Get url: /api/users, method: POST
+2018-09-20T14:25:30.774Z error: 
+ Error request {"method":"POST","url":"/users","header":{"host":"localhost:3000","connection":"keep-alive","content-length":"55","accept":"application/json, text/plain, */*","origin":"http://localhost:4200","user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36","content-type":"application/json","referer":"http://localhost:4200/?email=asd&password=asd","accept-encoding":"gzip, deflate, br","accept-language":"en-US,en;q=0.9,ru;q=0.8"}} 
+ Error: [object Object]
+    at new ValidError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/valid.error.js:4:52)
+    at _callee$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:21:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:99
+    at validate (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:12:3)
+    at _callee2$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:20:11)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:99
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:19:1
+    at dispatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-body/index.js:110:14 
+
+2018-09-20T14:25:36.146Z error: 
+ Error request {"method":"POST","url":"/users","header":{"host":"localhost:3000","connection":"keep-alive","content-length":"58","accept":"application/json, text/plain, */*","origin":"http://localhost:4200","user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36","content-type":"application/json","referer":"http://localhost:4200/?email=asd&password=asd","accept-encoding":"gzip, deflate, br","accept-language":"en-US,en;q=0.9,ru;q=0.8"}} 
+ Error: This User is busy
+    at new HttpError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/http.error.js:4:54)
+    at UserServices._callee$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:22:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:39:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:39:361
+    at <anonymous> 
+
+2018-09-20T14:25:50.037Z error: 
+ Error request {"method":"POST","url":"/users","header":{"host":"localhost:3000","connection":"keep-alive","content-length":"58","accept":"application/json, text/plain, */*","origin":"http://localhost:4200","user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36","content-type":"application/json","referer":"http://localhost:4200/?email=asd&password=asd","accept-encoding":"gzip, deflate, br","accept-language":"en-US,en;q=0.9,ru;q=0.8"}} 
+ Error: This User is busy
+    at new HttpError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/http.error.js:4:54)
+    at UserServices._callee$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:22:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:39:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:39:361
+    at <anonymous> 
+
+2018-09-20T14:25:57.597Z info: Get url: /api/users, method: POST
+2018-09-20T14:28:00.815Z info: Get url: /api/users, method: GET
+2018-09-20T14:28:32.484Z info: Get url: /api/users, method: GET
+2018-09-20T14:28:44.897Z info: Get url: /api/users, method: GET
+2018-09-20T14:29:36.604Z info: Get url: /api/users, method: GET
+2018-09-20T14:29:40.800Z info: Get url: /api/users, method: GET
+2018-09-20T14:29:42.992Z info: Get url: /api/users, method: GET
+2018-09-20T14:29:45.549Z info: Get url: /api/users, method: GET
+2018-09-21T05:40:24.900Z info: Server has benn started on PORT 3000 in development 
+2018-09-21T05:40:24.981Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-21T06:05:46.468Z info: Get url: /, method: GET
+2018-09-21T06:05:53.886Z info: Get url: /, method: GET
+2018-09-21T06:06:10.789Z info: Get url: /api/users, method: GET
+2018-09-21T06:06:12.308Z info: Get url: /api/users, method: GET
+2018-09-21T06:06:13.974Z info: Get url: /api/users, method: GET
+2018-09-21T06:06:15.061Z info: Get url: /api/users, method: GET
+2018-09-21T06:07:31.343Z info: Get url: /api/users, method: GET
+2018-09-21T06:07:32.889Z info: Get url: /api/users, method: GET
+2018-09-21T06:07:33.513Z info: Get url: /api/users, method: GET
+2018-09-21T06:07:35.882Z info: Get url: /api/users, method: GET
+2018-09-21T06:07:45.278Z info: Get url: /api/users, method: GET
+2018-09-21T06:07:51.024Z info: Get url: /api/users, method: GET
+2018-09-21T06:07:52.492Z info: Get url: /api/users, method: GET
+2018-09-21T06:08:00.582Z error: 
+ Error request {"method":"POST","url":"/users","header":{"host":"localhost:3000","connection":"keep-alive","content-length":"55","accept":"application/json, text/plain, */*","origin":"http://localhost:4200","user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36","content-type":"application/json","referer":"http://localhost:4200/","accept-encoding":"gzip, deflate, br","accept-language":"en-US,en;q=0.9,ru;q=0.8"}} 
+ Error: [object Object]
+    at new ValidError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/valid.error.js:4:52)
+    at _callee$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:21:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:99
+    at validate (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:12:3)
+    at _callee2$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:20:11)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:99
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:19:1
+    at dispatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-body/index.js:110:14 
+
+2018-09-21T06:12:30.412Z info: Get url: /api/users, method: GET
+2018-09-21T06:12:50.754Z info: Get url: /api/users, method: GET
+2018-09-21T06:13:07.657Z info: Get url: /api/users, method: GET
+2018-09-21T06:13:14.234Z info: Get url: /api/users, method: GET
+2018-09-21T06:13:47.434Z info: Get url: /api/users, method: GET
+2018-09-21T06:14:20.118Z info: Get url: /api/users, method: GET
+2018-09-21T06:14:27.322Z info: Get url: /api/users, method: GET
+2018-09-21T06:15:36.904Z info: Get url: /api/users, method: GET
+2018-09-21T06:19:49.000Z info: Get url: /api/users, method: GET
+2018-09-21T06:37:41.913Z info: Get url: /api/users, method: GET
+2018-09-21T06:37:43.334Z info: Get url: /api/users/confirm, method: POST
+2018-09-21T06:37:44.614Z info: Get url: /api/users/confirm, method: POST
+2018-09-21T06:37:45.645Z info: Get url: /api/users/confirm, method: POST
+2018-09-21T06:37:46.530Z info: Get url: /api/users/confirm, method: POST
+2018-09-21T06:38:05.655Z info: Get url: /api/users, method: GET
+2018-09-21T06:38:06.568Z info: Get url: /api/users/confirm, method: POST
+2018-09-21T06:38:15.582Z info: Get url: /api/users/confirm, method: POST
+2018-09-21T06:38:17.369Z info: Get url: /api/users/confirm, method: POST
+2018-09-21T06:38:33.172Z info: Get url: /api/users, method: GET
+2018-09-21T06:38:34.359Z info: Get url: /api/users/confirm, method: POST
+2018-09-21T06:38:35.356Z info: Get url: /api/users/confirm, method: POST
+2018-09-21T06:38:35.593Z info: Get url: /api/users/confirm, method: POST
+2018-09-21T06:38:35.754Z info: Get url: /api/users/confirm, method: POST
+2018-09-21T06:38:36.650Z info: Get url: /api/users/confirm, method: POST
+2018-09-21T06:38:36.792Z info: Get url: /api/users/confirm, method: POST
+2018-09-21T06:38:37.609Z info: Get url: /api/users/confirm, method: POST
+2018-09-21T06:38:39.275Z info: Get url: /api/users, method: GET
+2018-09-21T06:38:58.157Z info: Get url: /api/users, method: GET
+2018-09-21T06:38:59.341Z info: Get url: /api/users/confirm, method: POST
+2018-09-21T06:39:45.394Z info: Server has benn started on PORT 3000 in development 
+2018-09-21T06:39:45.458Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-21T06:39:50.298Z info: Get url: /api/users, method: GET
+2018-09-21T06:39:51.632Z info: Get url: /api/users/confirm, method: POST
+2018-09-21T06:39:54.323Z info: Get url: /api/users/confirm, method: POST
+2018-09-21T06:40:18.196Z error: 
+ Error request {"method":"POST","url":"/users","header":{"host":"localhost:3000","connection":"keep-alive","content-length":"50","accept":"application/json, text/plain, */*","origin":"http://localhost:4200","user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36","content-type":"application/json","referer":"http://localhost:4200/","accept-encoding":"gzip, deflate, br","accept-language":"en-US,en;q=0.9,ru;q=0.8"}} 
+ Error: [object Object]
+    at new ValidError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/valid.error.js:4:52)
+    at _callee$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:21:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:99
+    at validate (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:12:3)
+    at _callee2$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:20:11)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:99
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:19:1
+    at dispatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-body/index.js:110:14 
+
+2018-09-21T06:40:21.380Z info: Get url: /api/users, method: POST
+2018-09-21T06:40:23.018Z info: Get url: /api/users, method: GET
+2018-09-21T06:40:31.561Z info: Get url: /api/users, method: GET
+2018-09-21T06:40:36.151Z info: Get url: /api/users/confirm, method: POST
+2018-09-21T06:40:40.628Z info: Get url: /api/users/confirm, method: POST
+2018-09-21T06:41:22.079Z info: Get url: /api/users/confirm, method: POST
+2018-09-21T06:41:23.681Z info: Get url: /api/users/confirm, method: POST
+2018-09-21T06:41:24.896Z info: Get url: /api/users/confirm, method: POST
+2018-09-21T06:41:26.042Z info: Get url: /api/users/confirm, method: POST
+2018-09-21T06:41:56.934Z info: Get url: /api/users, method: GET
+2018-09-21T06:41:59.003Z error: 
+ Error request {"method":"POST","url":"/users/delete","header":{"host":"localhost:3000","connection":"keep-alive","content-length":"113","accept":"application/json, text/plain, */*","origin":"http://localhost:4200","user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36","content-type":"application/json","referer":"http://localhost:4200/users","accept-encoding":"gzip, deflate, br","accept-language":"en-US,en;q=0.9,ru;q=0.8"}} 
+ Error: Password not valid
+    at new HttpError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/http.error.js:4:54)
+    at UserServices._callee4$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:76:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:39:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:39:361
+    at <anonymous> 
+
+2018-09-21T06:42:09.978Z error: 
+ Error request {"method":"POST","url":"/users/delete","header":{"host":"localhost:3000","connection":"keep-alive","content-length":"112","accept":"application/json, text/plain, */*","origin":"http://localhost:4200","user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36","content-type":"application/json","referer":"http://localhost:4200/users","accept-encoding":"gzip, deflate, br","accept-language":"en-US,en;q=0.9,ru;q=0.8"}} 
+ Error: Password not valid
+    at new HttpError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/http.error.js:4:54)
+    at UserServices._callee4$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:76:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:39:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/services/user.service.js:39:361
+    at <anonymous> 
+
+2018-09-21T06:42:38.182Z info: Server has benn started on PORT 3000 in development 
+2018-09-21T06:42:38.235Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-21T06:42:41.336Z info: Get url: /api/users, method: GET
+2018-09-21T06:42:43.289Z info: Get url: /api/users/delete, method: POST
+2018-09-21T06:43:13.312Z info: Get url: /api/users, method: GET
+2018-09-21T06:43:15.860Z info: Get url: /api/users/confirm, method: POST
+2018-09-21T06:44:00.072Z info: Get url: /api/users, method: GET
+2018-09-21T06:44:03.441Z info: Get url: /api/users, method: GET
+2018-09-21T06:44:09.495Z info: Get url: /api/users/delete, method: POST
+2018-09-21T06:44:21.965Z info: Get url: /api/users, method: GET
+2018-09-21T06:44:23.662Z info: Get url: /api/users/delete, method: POST
+2018-09-21T06:44:24.963Z info: Get url: /api/users/delete, method: POST
+2018-09-21T06:44:28.247Z info: Get url: /api/users, method: GET
+2018-09-21T06:44:35.551Z info: Get url: /api/users/confirm, method: POST
+2018-09-21T06:44:49.156Z info: Get url: /api/users, method: GET
+2018-09-21T06:44:54.436Z info: Get url: /api/users/delete, method: POST
+2018-09-21T06:45:17.405Z info: Get url: /api/users, method: GET
+2018-09-21T06:45:21.025Z info: Get url: /api/users/confirm, method: POST
+2018-09-21T06:45:23.500Z info: Get url: /api/users/confirm, method: POST
+2018-09-21T06:45:25.114Z info: Get url: /api/users/delete, method: POST
+2018-09-21T06:45:26.439Z info: Get url: /api/users/confirm, method: POST
+2018-09-21T06:45:27.693Z info: Get url: /api/users/confirm, method: POST
+2018-09-21T06:46:05.428Z info: Get url: /api/users, method: GET
+2018-09-21T06:46:18.927Z info: Get url: /api/users/confirm, method: POST
+2018-09-21T06:47:26.135Z info: Server has benn started on PORT 3000 in development 
+2018-09-21T06:47:26.188Z info: Authenticate postgresql. DB_NAME: postgres, DB_USER: postgres
+2018-09-21T06:47:30.491Z info: Get url: /api/users, method: GET
+2018-09-21T06:47:32.206Z info: Get url: /api/users/delete, method: POST
+2018-09-21T06:47:46.133Z info: Get url: /api/users, method: GET
+2018-09-21T06:47:48.020Z info: Get url: /api/users/confirm, method: POST
+2018-09-21T06:47:49.594Z info: Get url: /api/users, method: GET
+2018-09-21T06:48:20.162Z info: Get url: /api/users, method: GET
+2018-09-21T06:48:21.577Z info: Get url: /api/users/delete, method: POST
+2018-09-21T06:48:22.761Z error: 
+ Error request {"method":"POST","url":"/users/confirm","header":{"host":"localhost:3000","connection":"keep-alive","content-length":"2","accept":"application/json, text/plain, */*","origin":"http://localhost:4200","user-agent":"Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.81 Safari/537.36","content-type":"application/json","referer":"http://localhost:4200/users","accept-encoding":"gzip, deflate, br","accept-language":"en-US,en;q=0.9,ru;q=0.8"}} 
+ Error: [object Object]
+    at new ValidError (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/valid.error.js:4:52)
+    at _callee$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:21:13)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:23:99
+    at validate (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/validator/index.js:12:3)
+    at _callee4$ (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:33:9)
+    at tryCatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:65:40)
+    at Generator.invoke [as _invoke] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:303:22)
+    at Generator.prototype.(anonymous function) [as next] (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/babel-polyfill/node_modules/regenerator-runtime/runtime.js:117:21)
+    at step (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:191)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:437
+    at new Promise (<anonymous>)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:27:99
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/middleware/routes/users.js:32:1
+    at dispatch (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:44:32)
+    at next (/home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-router/node_modules/koa-compose/index.js:45:18)
+    at /home/ITRANSITION.CORP/a.kudyolko/Desktop/nodejs_todo/nodejs_postresql/node_modules/koa-body/index.js:110:14 
+
+2018-09-21T06:48:24.909Z info: Get url: /api/users, method: GET
+2018-09-21T06:48:44.810Z info: Get url: /api/users, method: GET
+2018-09-21T06:48:45.721Z info: Get url: /api/users/confirm, method: POST
+2018-09-21T06:50:03.467Z info: Get url: /api/users, method: GET
+2018-09-21T06:50:07.081Z info: Get url: /api/users/delete, method: POST
+2018-09-21T06:50:08.231Z info: Get url: /api/users/confirm, method: POST
+2018-09-21T06:50:09.096Z info: Get url: /api/users/delete, method: POST
+2018-09-21T06:50:10.001Z info: Get url: /api/users/confirm, method: POST
+2018-09-21T06:50:10.659Z info: Get url: /api/users/delete, method: POST
+2018-09-21T06:50:11.726Z info: Get url: /api/users/delete, method: POST
+2018-09-21T06:50:12.311Z info: Get url: /api/users/confirm, method: POST
+2018-09-21T06:50:13.131Z info: Get url: /api/users/delete, method: POST
+2018-09-21T06:50:13.288Z info: Get url: /api/users/confirm, method: POST
+2018-09-21T06:50:14.287Z info: Get url: /api/users/delete, method: POST
+2018-09-21T06:50:14.815Z info: Get url: /api/users/confirm, method: POST
+2018-09-21T06:50:15.209Z info: Get url: /api/users/delete, method: POST
+2018-09-21T06:50:16.924Z info: Get url: /api/users/confirm, method: POST
+2018-09-21T06:50:17.632Z info: Get url: /api/users/confirm, method: POST
+2018-09-21T06:50:19.457Z info: Get url: /api/users/confirm, method: POST
+2018-09-21T06:50:20.873Z info: Get url: /api/users, method: GET
+2018-09-21T06:50:21.955Z info: Get url: /api/users/delete, method: POST
+2018-09-21T06:50:22.511Z info: Get url: /api/users/delete, method: POST
+2018-09-21T06:50:23.047Z info: Get url: /api/users/delete, method: POST
+2018-09-21T06:50:24.266Z info: Get url: /api/users/delete, method: POST
+2018-09-21T06:50:24.610Z info: Get url: /api/users/confirm, method: POST
+2018-09-21T06:50:25.143Z info: Get url: /api/users/confirm, method: POST
+2018-09-21T06:50:25.675Z info: Get url: /api/users/confirm, method: POST
+2018-09-21T06:50:26.113Z info: Get url: /api/users/confirm, method: POST
+2018-09-21T06:50:33.085Z info: Get url: /api/users, method: GET
+2018-09-21T06:50:39.988Z info: Get url: /api/users, method: GET
+2018-09-21T06:50:41.295Z info: Get url: /api/users, method: GET
+2018-09-21T06:58:59.546Z info: Get url: /api/users, method: GET
+2018-09-21T07:00:09.250Z info: Get url: /, method: GET
+2018-09-21T07:00:23.368Z info: Get url: /api/users, method: GET
+2018-09-21T07:06:15.765Z info: Get url: /api/users, method: GET
+2018-09-21T07:33:49.037Z info: Get url: /api/users, method: GET
